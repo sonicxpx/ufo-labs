@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://sagemaker-ml-lab-tx/results"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
